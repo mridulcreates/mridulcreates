@@ -40,6 +40,7 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
 ## **Connect with Mridul**
 <a href="https://github.com/mridulcreates"><img align="right" width="100" /></a>
 **Got a bug? Hit me up on [Discord](https://discord.com/users/1200558164844740796) for a quick reply, or email me if you're old school!**
+
 **Email:** mridulbud@gmail.com
 
 
