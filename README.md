@@ -44,9 +44,6 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
 <h4 align="center">Socials</h4>
 
 <div align="center">
-  <a href="https://www.youtube.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
   <a href="https://www.instagram.com/mridul.ft/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
@@ -59,8 +56,7 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
 </div>
 
 ```yaml
-Want to stay updated with my latest projects or just share some tech insights? Connect with me on YouTube, Instagram, Discord, or Gmail. Let's build something amazing together!
+Want to stay updated with my latest projects or just share some tech insights? Connect with me on Instagram, Discord, or Gmail. Let's build something amazing together!
 
-My code is always cleaner than my desk!
+My code is always cleaner than my desk <3!
 ```
-.
