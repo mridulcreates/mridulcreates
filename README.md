@@ -26,3 +26,7 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mridulcreates&bg_color=0d1117&color=ffffff&line=00ffee&point=ababab&area=true&hide_border=true" alt="activity-graph graph"  />
 </div>
+
+## **Visitor Counter**
+<a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mridulcreates?theme=gelbooru"></a>
+<a href="https://github.com/mridulcreates"><img align="left" width="100"></a>
