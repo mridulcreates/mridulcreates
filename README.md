@@ -54,6 +54,7 @@ Welcome to my shadowy domain, where the darkness hides many secrets and unseen e
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
 </div>
+<br>
 
 ```yaml
 Want to stay updated with my latest projects or just share some tech insights? Connect with me on Instagram, Discord, or Gmail. Let's build something amazing together!
