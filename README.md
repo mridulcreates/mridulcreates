@@ -15,7 +15,7 @@
 <a href="https://github.com/himitsu95"><img align="left" width="100" ></a>
 Lazy coder by day, anime marathoner by night. Caffeine is my drug, I love to eat **Bugs**.
 
-Just started coding and already dreaming in binary! More bugs in my code than a summer night, but squashing them one by one. Laughing at my syntax errors since day one! :bug:
+Just started coding and already dreaming in binary. More bugs in my code than a summer night. Laughing at my syntax errors since day one! :bug:
 <br><br>
 
 
