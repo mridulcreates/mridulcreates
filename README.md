@@ -30,3 +30,9 @@ Just started learning to code and already dreaming in binary. I've got more bugs
 ## **Visitor Counter**
 <a href="https://google.com"><img align="right" width=400 src="https://count.getloli.com/get/@mridulcreates?theme=gelbooru"></a>
 <a href="https://github.com/mridulcreates"><img align="left" width="100"></a>
+
+```yaml
+Hehe, another stalker has been caught.
+
+Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
+```
