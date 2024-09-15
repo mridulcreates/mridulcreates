@@ -36,3 +36,34 @@ Hehe, another stalker has been caught.
 
 Welcome to my shadowy domain, where the darkness hides many secrets and unseen eyes follow your every move. Enter at your own risk, for you may uncover more than you bargained for.
 ```
+
+## **Connect with Mridul**
+<a href="https://github.com/mridulcreates"><img align="right" width="100" /></a>
+**Got a bug that's driving you crazy? Shoot me a message on Discord for a speedy reply, or send an email if you prefer the old-school way!** [mridul.ftw](https://discord.com/users/1200558164844740796)
+
+**Email:** mridulbud@gmail.com
+
+
+<h4 align="center">Socials</h4>
+
+<div align="center">
+  <a href="https://www.youtube.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.instagram.com/mridul.ft/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  </a>
+  <a href="https://discord.gg/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
+  </a>
+  <a href="mailto:mridulbud@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=000&logoColor=pink&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+</div>
+
+```yaml
+Want to stay updated with my latest projects or just share some tech insights? Connect with me on YouTube, Instagram, Discord, or Gmail. Let's build something amazing together!
+
+My code is always cleaner than my desk!
+```
+.
